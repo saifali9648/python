@@ -1,0 +1,12 @@
+x=5
+print(type(x))
+x="saif"
+print(type(x))
+x=3.5
+print(type(x))
+x=1j
+print(type(x))
+x=["apple","banana","kela"]
+print(type(x))
+x=("apple","banana","kela")
+print(type(x)) 
