@@ -1,0 +1,5 @@
+print(eval("5+10"))
+y=eval("5*2")
+print(y)
+z=eval("5*2.0")
+print(z)
